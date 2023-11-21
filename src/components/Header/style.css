@@ -1,0 +1,24 @@
+#header{
+    background: greenyellow;
+    padding: 20px 0;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-text{
+    display: flex;
+    align-items: center ;
+}
+.header-input{
+    display: flex;
+    align-items: center;
+}
+.logos,
+.love,
+.basket{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
