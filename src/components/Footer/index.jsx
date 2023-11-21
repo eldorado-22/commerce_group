@@ -5,7 +5,10 @@ const Footer = () => {
         <>
           <footer>
             
-            </footer>  
+            header
+            hero
+          
+          </footer>  
         </>
     );
 };
