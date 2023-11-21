@@ -4,7 +4,10 @@
     margin: 0;
     font-family: sans-serif;
 }
-
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
 a{
     text-decoration: none;
 }

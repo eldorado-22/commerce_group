@@ -1,4 +1,5 @@
 import React from 'react';
+import "./style.css"
 
 const Header = () => {
     return (
@@ -19,15 +20,15 @@ const Header = () => {
                     <div className="header-input">
                         <input type="search" placeholder='Search for products' />
                         <div className="logos">
-                        <div className="love">
+                         <div className="love">
                             <span>Love</span>
                             <span>2</span>
-                        </div>
-                        <div className="line"></div>
-                        <div className="basket">
+                            </div>
+                            <div className="line"></div>
+                            <div className="basket">
                             <span>BASKET</span>
                             <h2>4</h2>
-                        </div>
+                            </div>
                         </div>
                     </div>
                 </div>
