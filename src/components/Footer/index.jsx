@@ -5,6 +5,8 @@ const Footer = () => {
         <>
           <footer>
             header
+            hero
+            
             </footer>  
         </>
     );
