@@ -4,9 +4,10 @@ const Footer = () => {
     return (
         <>
           <footer>
+            
             header
             hero
-           
+          
           </footer>  
         </>
     );
