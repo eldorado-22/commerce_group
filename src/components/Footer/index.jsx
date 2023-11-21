@@ -4,8 +4,10 @@ const Footer = () => {
     return (
         <>
           <footer>
-            
-            </footer>  
+            header
+            hero
+           
+          </footer>  
         </>
     );
 };

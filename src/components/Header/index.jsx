@@ -34,7 +34,7 @@ const Header = () => {
                                     <span>BASKET</span>
                                     <h2>4</h2>
                                 </div>
-                            </div>
+                             </div>
                         </div>
                     </div>
                 </div>
